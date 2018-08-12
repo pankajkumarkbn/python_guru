@@ -5,7 +5,7 @@ module.exports = {
    * Make sure the first answer is the correct one.
    * Set at least ANSWER_COUNT answers, any extras will be shuffled in.
    */
-  //done till this line
+  //done till 320
   QUESTIONS_EN_GB: [ 
     {
       'Which of the following statements is true?': [
@@ -204,127 +204,120 @@ module.exports = {
       ],
     }, //done till this line
     {
-      'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-        'Storm',
-        'No snow',
-        'No toys',
-        'The Reindeer were sick',
+      'Given a function that does not return any value, What value is thrown by default when executed in shell.': [
+        'none',
+        'int',
+        'bool',
+        'void',
       ],
     },
     {
-      'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-        'Oink',
-        'Growl',
-        'Bark',
-        'Meow',
+      'Which of the following will run without errors ?': [
+        'round(45.8)',
+        'round(6352.898,2,5)',
+        'round()',
+        'round(7463.123,2,1)',
       ],
     },
     {
-      'In the 1964 movie, what is the name of the prospector?': [
-        'Yukon Cornelius',
-        'Slider Sam',
-        'Bumble',
-        'Jack',
+      'What is the return type of function id ?': [
+        'int',
+        'float',
+        'bool',
+        'dict',
       ],
     },
     {
-      'How far do reindeer travel when they migrate?': [
-        '3000 miles',
-        '700 miles',
-        '500 miles',
-        '0 miles',
+      'What error occurs when you execute? apple = mango': [
+        'NameError',
+        'SyntaxError',
+        'ValueError',
+        'TypeError',
       ],
     },
     {
-      'How fast can a reindeer run?': [
-        '48 miles per hour',
-        '17 miles per hour',
-        '19 miles per hour',
-        '14 miles per hour',
-        '52 miles per hour',
-        '41 miles per hour',
+      'In order to store values in terms of key and value we use what core data type.': [
+        'dictionary',
+        'list',
+        'tuple',
+        'class',
       ],
     },
   ],
   QUESTIONS_EN_US: [
     {
-      'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-        '13,000',
-        '1,200',
-        '5,000',
-        '700',
-        '1,000',
-        '120,000',
+      'What is the return value of trunc() ?': [
+        'int',
+        'bool',
+        'float',
+        'None',
       ],
     },
     {
-      'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-        'Japan',
-        'United States',
-        'Finland',
-        'Germany',
-        'Canada',
-        'Norway',
-        'France',
+      'What is the output of print 0.1 + 0.2 == 0.3?': [
+        'False',
+        'True',
+        'Machine dependent',
+        'Error',
       ],
     },
     {
-      'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-        'Wunorse Openslae',
-        'Alabaster Snowball',
-        'Bushy Evergreen',
-        'Pepper Minstix',
+      'Which of the following is not a complex number?': [
+        'k = 2 + 3l',
+        'k = complex(2, 3)',
+        'k = 2 + 3j',
+        'k = 2 + 3J',
       ],
     },
     {
-      'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be': [
-        'Girls',
-        'Boys',
-        'Girls and boys',
-        'No way to tell',
+      'What is the type of inf?': [
+        'Float',
+        'Boolean',
+        'Integer',
+        'Complex',
       ],
     },
     {
-      'What do Reindeer eat?': [
-        'Lichen',
-        'Grasses',
-        'Leaves',
-        'Berries',
+      'What does ~4 evaluate to?': [
+        '-5',
+        '-4',
+        '-3',
+        '+3',
       ],
     },
     {
-      'What of the following is not true?': [
-        'Caribou live on all continents',
-        'Both reindeer and Caribou are the same species',
-        'Caribou are bigger than reindeer',
-        'Reindeer live in Scandinavia and Russia',
+      'Which of the following is incorrect?': [
+        'x = 03964',
+        'x = 0b101',
+        'x = 0x4f5',
+        'x = 19023',
       ],
     },
     {
-      'In what year did Rudolph make his television debut?': [
-        '1964',
-        '1979',
-        '2000',
-        '1956',
+      'What is the result of cmp(3, 1)?': [
+        '1',
+        '0',
+        'True',
+        'False',
       ],
     },
     {
-      'Who was the voice of Rudolph in the 1964 classic?': [
-        'Billie Mae Richards',
-        'Burl Ives',
-        'Paul Soles',
-        'Lady Gaga',
+      'What is the result of round(0.5) – round(-0.5)?': [
+        '2.0',
+        '1.0',
+        '0.0',
+        'None',
       ],
     },
     {
-      'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-        'Montgomery Ward',
-        'Sears',
-        'Macys',
-        'Kmart',
+      'What does 3 ^ 4 evaluate to?': [
+        '7',
+        '81',
+        '12',
+        '0.75',
       ],
     },
-    {
+    { //upto this line
       'Santa\'s reindeer named Donner was originally named what?': [
         'Dunder',
         'Donny',
