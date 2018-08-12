@@ -7,24 +7,20 @@ module.exports = {
    */
   QUESTIONS_EN_GB: [
     {
-      'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-        '13,000',
-        '1,200',
-        '5,000',
-        '700',
-        '1,000',
-        '120,000',
+      'Which of the following statements is true?': [
+        'All of these.',
+        'Python is a high level programming language.',
+        'Python is an interpreted language.',
+        'Python is an object-oriented language.',
       ],
     },
     {
-      'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-        'Japan',
-        'United States',
-        'Finland',
-        'Germany',
-        'Canada',
-        'Norway',
-        'France',
+      'What is used to define a block of code (body of loop, function etc.) in Python?
+': [
+      'Indentation',
+      'Curly braces',
+      'Parenthesis',
+      'Quotation',
       ],
     },
   ],
