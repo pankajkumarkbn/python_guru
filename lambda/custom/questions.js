@@ -44,7 +44,7 @@ module.exports = {
         'scanf()',
         'cin',
         '<>',
-      ]
+      ],
     },
     {
       'The statement using and operator results true if ?': [
@@ -52,6 +52,7 @@ module.exports = {
         'both operands are false',
         'either of the operands is true',
         'first operand is true',
+      ],
     },
-  ],
+  ]
 };
