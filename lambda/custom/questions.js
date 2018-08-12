@@ -27,7 +27,7 @@ module.exports = {
         'All',
         'Comments are for programmers for better understanding of the program.',
         'Python Interpreter ignores comment.',
-        'You can write multi-line comments in Python using triple quotes, either ''' or """.',
+        'You can write multi-line comments in Python using triple quotes.',
       ]
     },
     {
@@ -45,6 +45,13 @@ module.exports = {
         'cin',
         '<>',
       ]
+    },
+    {
+      'The statement using and operator results true if ?': [
+        'both operands are true',
+        'both operands are false',
+        'either of the operands is true',
+        'first operand is true',
     },
   ],
 };
