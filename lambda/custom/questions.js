@@ -15,13 +15,36 @@ module.exports = {
       ],
     },
     {
-      'What is used to define a block of code (body of loop, function etc.) in Python?
-': [
+      'What is used to define a block of code (body of loop, function etc.) in Python?': [
       'Indentation',
       'Curly braces',
       'Parenthesis',
       'Quotation',
       ],
+    },
+    {
+      'Which of the following is correct?': [
+        'All',
+        'Comments are for programmers for better understanding of the program.',
+        'Python Interpreter ignores comment.',
+        'You can write multi-line comments in Python using triple quotes, either ''' or """.',
+      ]
+    },
+    {
+    'Which of the following is correct?': [
+      'Variable name can start with an underscore.',
+      'Variable name can start with a digit.',
+      'Keywords cannot be used as a variable name.',
+      'Variable name can have symbols like: @, #, $ etc.',
+    ]
+    },
+    {
+      'What is used to take input from the user in Python?': [
+        'input()',
+        'scanf()',
+        'cin',
+        '<>',
+      ]
     },
   ],
 };
