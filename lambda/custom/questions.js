@@ -397,36 +397,34 @@ module.exports = {
         'An in-built method that is automatically called',
       ],
     },
-    { //till here
-      'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-        'Black mud',
-        'Bag',
-        'Pillow case',
-        'Sock',
+    {
+      'Only problems that are recursively defined can be solved using recursion. True or False?' : [
+        'False',
+        'True',
       ],
     },
     {
-      'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-        'Dentist',
-        'Reindeer',
-        'Toy maker',
-        'Candlestick maker',
+      'Which of these is false about recursion?' : [
+        'Recursive functions run faster than non-recursive function',
+        'Recursive function can be replaced by a non-recursive function',
+        'Recursive functions usually take more memory space than non-recursive function',
+        'Recursion makes programs easier to understand',
       ],
     },
     {
-      'In the 1964 movie,what was the Bumble\'s one weakness?': [
-        'Could not swim',
-        'Always hungry',
-        'Candy canes',
-        'Cross eyed',
+      'What is tail recursion?' : [
+        'A function where the recursive call is the last thing executed by the function',
+        'A recursive function that has two base cases',
+        'A function where the recursive functions leads to an infinite loop',
+        'A recursive function where the function doesn’t return anything and just prints the values',
       ],
     },
     {
-      'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-        'Peppermint',
-        'Gold',
-        'India',
-        'Polar Bears',
+      'Which of the following statements is false about recursion?' : [
+        'Every recursive function must have a return value',
+        'Every recursive function must have a base case',
+        'Infinite recursion can occur if the base case isn’t properly mentioned',
+        'A recursive function makes the code easier to understand',
       ],
     },
     {
@@ -438,19 +436,19 @@ module.exports = {
       ],
     },
     {
-      'In the 1964 movie, what is the name of the Jack in the Box?': [
-        'Charlie',
-        'Sam',
-        'Billy',
-        'Jack',
+      'What happens if the base condition isn’t defined in recursive programs?' : [
+        'Program gets into an infinite loop',
+        'Program runs once',
+        'Program runs n number of times where n is the argument given to the function',
+        'An exception is thrown',
       ],
     },
     {
-      'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-        'Storm',
-        'No snow',
-        'No toys',
-        'The Reindeer were sick',
+      'Which of these is not true about recursion?' : [
+        'Recursive calls take up less memory',
+        'Making the code look clean',
+        'A complex task can be broken into sub-problems',
+        'Sequence generation is easier than a nested iteration',
       ],
     },
     {
@@ -462,31 +460,28 @@ module.exports = {
       ],
     },
     {
-      'In the 1964 movie, what is the name of the prospector?': [
-        'Yukon Cornelius',
-        'Slider Sam',
-        'Bumble',
-        'Jack',
+      'Which of these is not true about recursion?' : [
+        'Recursive functions are easy to debug',
+        'The logic behind recursion may be hard to follow',
+        'Recursive calls take up a lot of memory',
+        'Programs using recursion take longer time than their non-recursive equivalent',
       ],
     },
     {
-      'How far do reindeer travel when they migrate?': [
-        '3000 miles',
-        '700 miles',
-        '500 miles',
-        '0 miles',
+      'The function of re.match is' : [
+        'Matches a pattern at the start of the string',
+        'Error',
+        'Matches a pattern anywhere in the string',
+        'Matches a pattern at the end of the string',
       ],
     },
     {
-      'How fast can a reindeer run?': [
-        '48 miles per hour',
-        '17 miles per hour',
-        '19 miles per hour',
-        '14 miles per hour',
-        '52 miles per hour',
-        '41 miles per hour',
+      'Which of these definitions correctly describes a module?' : [
+        'Design and implementation of specific functionality to be incorporated into a program',
+        'Denoted by triple quotes for providing the specification of certain program elements',
+        'Defines the specification of how it is to be used',
+        'Any program that reuses code',
       ],
     },
-   }, //question_en_us
-  ], //question_en_us
-}; //module-end
+  ],
+};
