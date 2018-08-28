@@ -317,87 +317,87 @@ module.exports = {
         '0.75',
       ],
     },
-    { //upto this line
-      'Santa\'s reindeer named Donner was originally named what?': [
-        'Dunder',
-        'Donny',
-        'Dweedle',
-        'Dreamy',
+    { 
+      'The one’s complement of 110010101 is' : [
+        '001101010',
+        '110010101',
+        '001101011',
+        '110010100',
       ],
     },
     {
-      'Who invented the story of Rudolph?': [
-        'Robert May',
-        'Johnny Marks',
-        'Santa',
-        'J K  Rowling',
+      'What is the type of each element in sys.argv?' : [
+        'string',
+        'set',
+        'list',
+        'tuple',
       ],
     },
     {
-      'In what location will you not find reindeer?': [
-        'North Pole',
-        'Lapland',
-        'Korvatunturi mountain',
-        'Finland',
+      'What is the length of sys.argv?' : [
+        'number of arguments + 1',
+        'number of arguments',
+        'number of arguments – 1',
+        'none',
       ],
     },
     {
-      'What Makes Santa\'s Reindeer Fly?': [
-        'Magical Reindeer Dust',
-        'Fusion',
-        'Amanita muscaria',
-        'Elves',
+      'How are keyword arguments specified in the function heading?' : [
+        'two stars followed by a valid identifier',
+        'one star followed by a valid identifier',
+        'one underscore followed by a valid identifier',
+        'two underscores followed by a valid identifier',
       ],
     },
     {
-      'Including Rudolph, how many reindeer hooves are there?': [
-        '36',
-        '24',
-        '16',
-        '8',
+      'How many keyword arguments can be passed to a function in a single function call?' : [
+        'zero or more',
+        'zero',
+        'one',
+        'one or more',
       ],
     },
     {
-      'Santa only has one female reindeer, Which one is it?': [
-        'Vixen',
-        'Clarice',
-        'Cupid',
-        'Cupid',
+      'Which of the following is the use of function in python?' : [
+        'Functions are reusable pieces of programs',
+        'Functions don’t provide better modularity for your application',
+        'you can’t also create your own functions',
+        'All of the mentioned',
       ],
     },
     {
-      'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-        'Sam',
-        'Frosty',
-        'Burl',
-        'Snowy',
+      'Which keyword is use for function?' : [
+        'def',
+        'Fun',
+        'Define',
+        'Function',
       ],
     },
     {
-      'What was Rudolph\'s father\'s name?': [
-        'Donner',
-        'Dasher',
-        'Blixen',
-        'Comet',
+      'Which of these about a set is not true?' : [
+        'Immutable data type',
+        'Mutable data type',
+        'Allows duplicate values',
+        'Data type with unordered values',
       ],
     },
     {
-      'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-        'Comet',
-        'Blixen',
-        'Donner',
-        'Dasher',
+      'Which of the following functions is a built-in function in python?' :  [
+        'print()',
+        'seed()',
+        'sqrt()',
+        'factorial()',
       ],
     },
     {
-      'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-        'Fireball',
-        'Clarice',
-        'Jumper',
-        'Vixen',
+      'Which is the most appropriate definition for recursion?' : [
+        'A function execution instance that calls another execution instance of the same function',
+        'A function that calls itself',
+        'A class method that calls another class method',
+        'An in-built method that is automatically called',
       ],
     },
-    {
+    { //till here
       'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
         'Black mud',
         'Bag',
