@@ -268,6 +268,12 @@ const languageString = {
       GAME_NAME: 'Python Guru'
     },
   },
+  'en-IN': {
+    translation: {
+      QUESTIONS: questions.QUESTIONS_EN_IN,
+      GAME_NAME: 'Python Guru'
+    },
+  },
   de: {
     translation: {
       QUESTIONS: questions.QUESTIONS_DE_DE,
