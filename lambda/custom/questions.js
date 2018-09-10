@@ -244,6 +244,244 @@ module.exports = {
       ],
     },
   ],
+  QUESTIONS_EN_IN: [ 
+    {
+      'Which of the following statements is true?': [
+        'All of these.',
+        'Python is a high level programming language.',
+        'Python is an interpreted language.',
+        'Python is an object-oriented language.',
+      ],
+    },
+    {
+      'What is used to define a block of code (body of loop, function etc.) in Python?': [
+      'Indentation',
+      'Curly braces',
+      'Parenthesis',
+      'Quotation',
+      ],
+    },
+    {
+      'Which of the following is correct?': [
+        'All',
+        'Comments are for programmers for better understanding of the program.',
+        'Python Interpreter ignores comment.',
+        'You can write multi-line comments in Python using triple quotes.',
+      ],
+    },
+    {
+      'Which of the following is correct?': [
+        'Variable name can start with an underscore.',
+        'Variable name can start with a digit.',
+        'Keywords cannot be used as a variable name.',
+        'Variable name can have symbols like: @, #, $ etc.',
+      ],
+    },
+    {
+      'What is used to take input from the user in Python?': [
+        'input()',
+        'scanf()',
+        'cin',
+        '<>',
+      ],
+    },
+    {
+      'The statement using and operator results true if ?': [
+        'both operands are true',
+        'both operands are false',
+        'either of the operands is true',
+        'first operand is true',
+      ],
+    },
+    {
+      'Is Python case sensitive when dealing with identifiers?': [
+        'yes',
+        'no',
+        'machine dependent',
+        'none of the mentioned',
+      ],
+    },
+    {
+      'What is the maximum possible length of an identifier?': [
+        'none',
+        '31 characters',
+        '63 characters',
+        '79 characters',
+      ],
+    },
+    {
+      'Which of the following is an invalid variable?': [
+        '1st_string',
+        'my_string_1',
+        'foo',
+        '_',
+      ],
+    },
+    {
+      'Why are local variable names beginning with an underscore discouraged?': [
+        'they are used to indicate a private variables of a class',
+        'they confuse the interpreter',
+        'they are used to indicate global variables',
+        'they slow down execution',
+      ],
+    },
+    {
+      'Which of the following is not a keyword?': [
+        'eval',
+        'assert',
+        'nonlocal',
+        'pass',
+      ],
+    },
+    {
+      'All keywords in Python are in': [
+        'none',
+        'lower case',
+        'UPPER CASE',
+        'Capitalized',
+      ],
+    },
+    {
+      'Which of the following is true for variable names in Python?': [
+        'unlimited length',
+        'all private members must have leading and trailing underscores',
+        'underscore and ampersand are the only two special characters allowed',
+        'none',
+      ],
+    },
+    {
+      'Which of the following is an invalid statement?': [
+        'a b c = 1000 2000 3000',
+        'abc = 1,000,000',
+        'a,b,c = 1000, 2000, 3000',
+        'a_b_c = 1,000,000',
+      ],
+    },
+    {
+      'Which of the following cannot be a variable?': [
+        'in',
+        '__init__',
+        'it',
+        'on',
+      ],
+    },
+    {
+      'Which is the correct operator for power(xy)?': [
+        'X**y',
+        'X^y',
+        'X^^y',
+        'none',
+      ],
+    },
+    {
+      'Which one of these is floor division?': [
+        '//',
+        '/',
+        '%',
+        'none',
+      ],
+    },
+    {
+      'What is answer of this expression, 22 % 3 is?': [
+        '1',
+        '7',
+        '5',
+        '0',
+      ],
+    },
+    {
+      'Mathematical operations can be performed on a string. State whether true or false.': [
+        'False',
+        'True',
+      ],
+    },
+    {
+      'Operators with the same precedence are evaluated in which manner?': [
+        'Left to Right',
+        'Right to Left',
+        'Can’t say',
+        'none',
+      ],
+    },
+    {
+      'What is the output of this expression, 3*1**3?': [
+        '3',
+        '1',
+        '27',
+        '9',
+      ],
+    },
+    {
+      'Which one of the following have the same precedence?': [
+        'Addition and Subtraction',
+        'Multiplication and Division',
+        'Both Addition and Subtraction AND Multiplication and Division',
+        'none',
+      ],
+    },
+    {
+      'The expression Int(x) implies that the variable x is converted to integer. State whether true or false.': [
+        'True',
+        'False',
+      ],
+    },
+    {
+      'Which one of the following have the highest precedence in the expression?': [
+        'Parentheses',
+        'Exponential',
+        'Addition',
+        'Multiplication',
+      ],
+    },
+    {
+      'Which of these in not a core data type?': [
+        'Class',
+        'Lists',
+        'Dictionary',
+        'Tuples',
+      ],
+    }, //done till this line
+    {
+      'Given a function that does not return any value, What value is thrown by default when executed in shell.': [
+        'none',
+        'int',
+        'bool',
+        'void',
+      ],
+    },
+    {
+      'Which of the following will run without errors ?': [
+        'round(45.8)',
+        'round(6352.898,2,5)',
+        'round()',
+        'round(7463.123,2,1)',
+      ],
+    },
+    {
+      'What is the return type of function id ?': [
+        'int',
+        'float',
+        'bool',
+        'dict',
+      ],
+    },
+    {
+      'What error occurs when you execute? apple = mango': [
+        'NameError',
+        'SyntaxError',
+        'ValueError',
+        'TypeError',
+      ],
+    },
+    {
+      'In order to store values in terms of key and value we use what core data type.': [
+        'dictionary',
+        'list',
+        'tuple',
+        'class',
+      ],
+    },
+  ],
   QUESTIONS_EN_US: [
     {
       'What is the return value of trunc() ?': [
